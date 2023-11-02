@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Manasbrnwl
-- 👀 I’m interested in learning
+- 🙋🏽‍♂️ I’m Fresher Software Engineer.
+- 👀 Knowledge of Python, Java, SQL, HTML, CSS, Git, and Servlets.
 
 <!---
 Manasbrnwl/Manasbrnwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
