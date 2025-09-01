@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Fresher with no professional experience.<br>👯 I’m looking for professional experience.<br>🤝 I’m looking for help with some referrals<br>🌱 I’m currently learning MERN stack
+🔭 Full Stack Developer of hands-on experience, building scalable web and mobile solutions across government, healthtech, and B2B domains.<br>👯Proficient in modern technologies — Node.js, React.js, MySQL, MongoDB, Mongoose, RESTful APIs, and UI frameworks like Tailwind CSS — with expertise in backend architecture, API design, and database optimization.<br>🤝 Experienced in implementing role-based access control (RBAC), ensuring data consistency, performance tuning, and building real-time features such as notifications and location-based services.<br>🌱 Strong collaborator in Agile environments, with a proven track record of delivering production-ready features, optimizing workflows, and contributing to high-impact modules in live systems.
 
 
 ## 🌐 Socials:
