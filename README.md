@@ -46,7 +46,7 @@ Before this: Project Lead on the B2B Marketplace at **Austere Systems**, and fro
 |---|---|---|
 | **AI Veterinary Clinic Platform** | Multi-clinic system for 5+ clinics: appointments, consultation transcription, LLM-assisted SOAP notes, digital prescriptions and billing — with RBAC over medical records. | React · Node.js · LLM APIs · Speech-to-Text |
 | [**Financial Dashboard**](https://github.com/Manasbrnwl/FInancial-dashboard-BE) | Real-time market analytics with live charts, historical trend analysis and high-frequency timeframe filters. | TypeScript · Node.js · TimescaleDB |
-| [**Part-Find**](https://github.com/Manasbrnwl/part-find) | Platform for finding part-time work — matching, listings and the apps around it. | TypeScript · React · Node.js |
+| **Part-Find** | Platform for finding part-time work — matching, listings and the apps around it. | TypeScript · React · Node.js |
 | [**Medicine Reminder**](https://github.com/Manasbrnwl/medicine-reminder) | Health tracking and reminder backend for 1,000+ users, with Firebase push notifications and Razorpay payments. | Node.js · MongoDB · Firebase |
 | [**Code Collaboration**](https://github.com/Manasbrnwl/Code-Collaboration) | Real-time collaborative coding on a shared screen, over Socket.IO. | JavaScript · Socket.IO |
 
